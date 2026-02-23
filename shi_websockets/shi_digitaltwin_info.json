@@ -1,0 +1,10 @@
+{
+  "mode": "client",
+  "client": {
+    "serverUrl": "ws://127.0.0.1:8081",
+    "robotIpList": [
+      "192.168.89.201"
+    ],
+    "sendInterval": 0.1
+  }
+}

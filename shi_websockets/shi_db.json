@@ -1,0 +1,17 @@
+{
+  "mode": "server",
+  "server": {
+    "port": 8081,
+    "jointDataIps": [
+      "192.168.89.101",
+      "192.168.89.102"
+    ],
+    "robotInfoIps": [
+      "192.168.89.201"
+    ],
+    "cameraControlIps": [
+      "192.168.89.301"
+    ],
+    "sendInterval": 0.1
+  }
+}
